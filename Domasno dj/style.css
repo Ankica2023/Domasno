@@ -1,0 +1,125 @@
+body {
+background-color: white
+}
+
+.parent {
+    display: inline-flex;
+    margin-bottom: 5px;
+}
+
+.parent-2 {
+    display: block;
+}
+
+.image {
+    background-image: url(./DJ\ slika.jpg);
+    background-position: 50px 100px;
+    height: 600px;
+    width: 600px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.text {
+    background-color: white;
+    display: flex;
+    height: 25px;
+    margin: 50px;
+    border: 100px;
+    border-left: 10px;
+    padding: 25px;
+
+}
+
+.manager {
+    margin:60px;
+}
+
+.parent3 {
+    background-color: grey;
+    width:600px;
+    height: 900px;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+#h1 {
+    display: flex;
+    width:auto;
+    height: 20px;
+    float:left;
+    margin-left: 15px;
+    margin-bottom: 30px;
+
+}
+#text1 {
+    display: flex;
+    width:350px;
+    padding: 50px;
+}
+#slika {
+    margin-left: 20px;
+}
+#b1 {
+    padding: 5px;
+    width: 80px;
+    height: 40px;
+    background-color: grey;
+    border-color: aliceblue;
+    text-emphasis-color: aliceblue;
+}
+#img1 {
+    
+    display: inline-flex;
+    padding-left: 20px;
+    
+    
+}
+
+#img2 {
+    display: inline-flex;
+    padding-left: 10px;
+    margin: 30px;
+    margin-bottom: 20px;
+}
+
+#text2 {
+    display: flex;
+    width: 350px;
+    padding: 50px;
+}
+#b2 {
+    padding: 5px;
+    width: 80px;
+    height: 40px;
+    background-color: grey;
+    border-color: aliceblue;
+    text-emphasis-color: aliceblue;
+}
+#img3 {
+    display: inline-flex;
+    padding: 20px;
+}
+
+#text3 {
+    display: flex;
+    width: 350px;
+    padding: 50px;
+
+}
+
+#slika2 {
+    margin-left: 20px;
+}
+
+#b3 {
+    padding: 5px;
+    width: 80px;
+    height: 40px;
+    background-color: grey;
+    border-color: aliceblue;
+    text-emphasis-color: aliceblue;
+}
