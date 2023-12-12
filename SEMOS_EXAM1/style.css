@@ -1,0 +1,37 @@
+@font-face {
+    font-family: MyFont;
+    src : url(./Fonts1/OpenSans-SemiBoldItalic.ttf)
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+#MyMainPicture {
+    
+}
+
+#header{
+    flex-direction: column
+    color= #3E3F68
+    
+}
+
+#DivItalian {
+    /* display: inline-block; */
+    color: #848DFF;
+    float: right;
+    width: 70%;
+    border: 8px;
+    
+    
+
+
+
+}
+
+#subtitle{
+    
+}
